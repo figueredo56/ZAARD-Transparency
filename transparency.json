@@ -1,0 +1,12 @@
+{
+  "token": "ZAARD",
+  "total_supply": 180,
+  "circulating_supply": 116,
+  "reserves": [
+    {
+      "address": "0x3468ea4e6ce13ec4c7f8651f7efc6aa6046f4d65",
+      "type": "Team/Developer",
+      "status": "locked"
+    }
+  ]
+}
