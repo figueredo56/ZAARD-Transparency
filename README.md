@@ -1,4 +1,3 @@
-
 # ⚡ ESTRATEGIA MAESTRA DE ROTACIÓN, LIQUIDEZ Y RESPALDO: ZARD & PANGA
 
 ---
@@ -50,7 +49,7 @@ Para garantizar la deflación y el incremento orgánico del valor a largo plazo,
 ![ZAARD Token Banner 4](https://photos.pinksale.finance/file/pinksale-logo-upload/1790286307495-7850b9884619f2e0ccb7358994c11b42.png)
 
 El ecosistema expande su utilidad mediante coleccionables digitales únicos integrados en el mercado:
-* **ZAARD INNOVATION NFT Collection:** Desplegada y verificada en contratos de comercio digital bajo la dirección oficial [`0xb6a648842c13c1e3fc6c1c94f9f90ced2c5d19f0`](https://bscscan.com/address/0xb6a648842c13c1e3fc6c1c94f9f90ced2c5d19f0), otorgando derechos, identidad visual y estatus dentro de las aplicaciones descentralizadas (DApps) y juegos Web3 de la red.
+* **ZAARD INNOVATION NFT Collection (Element Market):** Explora y adquiere los activos oficiales en la plataforma [`https://element.market/collections/zaard?ref=MHCP`](https://element.market/collections/zaard?ref=MHCP), otorgando derechos, identidad visual y estatus dentro de las aplicaciones descentralizadas (DApps) y juegos Web3 de la red.
 
 ---
 
@@ -72,6 +71,11 @@ Ejecuta tus operaciones de compra y rotación de manera inmediata en los pools o
 [![Rotar ZARD a PANGA](https://img.shields.io/badge/PancakeSwap-Rotar%20ZARD%20a%20PANGA-6366F1?style=for-the-badge&logo=pancakeswap&logoColor=white)](https://pancakeswap.finance/swap?inputCurrency=0x973ba2c1dccd0820f1e026d6b1f01c55c4085d38&outputCurrency=0x4a6c3ea9e7132ad217c31f8252119f08c801366e)
 
 ---
+
+> **ZAARD INNOVATION** — *Arquitectura descentralizada, contratos auditables, quemas deflacionarias y poder de mercado en manos de la comunidad.*
+
+---
+
 
 ## 📄 Enlaces e Interfaces Oficiales
 
