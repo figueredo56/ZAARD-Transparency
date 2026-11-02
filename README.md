@@ -1,3 +1,4 @@
+
 # ⚡ ESTRATEGIA MAESTRA DE ROTACIÓN, LIQUIDEZ Y RESPALDO: ZARD & PANGA
 
 ---
@@ -69,6 +70,35 @@ Ejecuta tus operaciones de compra y rotación de manera inmediata en los pools o
 
 ### 🟣 3. Rotación Directa (ZARD ↔ PANGA)
 [![Rotar ZARD a PANGA](https://img.shields.io/badge/PancakeSwap-Rotar%20ZARD%20a%20PANGA-6366F1?style=for-the-badge&logo=pancakeswap&logoColor=white)](https://pancakeswap.finance/swap?inputCurrency=0x973ba2c1dccd0820f1e026d6b1f01c55c4085d38&outputCurrency=0x4a6c3ea9e7132ad217c31f8252119f08c801366e)
+
+---
+
+## 📄 Enlaces e Interfaces Oficiales
+
+* 🌐 **Portal Principal:** [https://figueredo56.github.io/DAIoficial/](https://figueredo56.github.io/DAIoficial/)
+* 📊 **ZAARD Tracker App:** [https://figueredo56.github.io/zaard-tracker/](https://figueredo56.github.io/zaard-tracker/)
+* 💼 **ZAARD Nexus Wallet:** [https://figueredo56.github.io/zaard-wallet/](https://figueredo56.github.io/zaard-wallet/)
+* 💬 **Comunidad Oficial Telegram:** [https://t.me/+Cjo5z_yXcdwzYjM5](https://t.me/+Cjo5z_yXcdwzYjM5)
+
+---
+
+## 👤 Equipo Core & Desarrollo
+
+* **Lead Blockchain Architect & Founder:** Panga
+* **Firma de Ingeniería Criptográfica:** XENOCRYPT
+* **Soporte & Contacto Técnico:** [figueredo56aracelis@gmail.com](mailto:figueredo56aracelis@gmail.com)
+
+---
+
+> **⚠️ Descargo de Responsabilidad (Disclaimer):**  
+> La interacción con contratos inteligentes, tokens criptográficos y protocolos DeFi conlleva riesgos inherentes debido a la volatilidad del mercado. Este documento tiene fines estrictamente técnicos e informativos. Realice siempre su propia investigación (*DYOR*) antes de interactuar con cualquier activo digital o piscina de liquidez.
+
+<div align="center">
+
+  <p><b>Diseñado y Desarrollado con Alta Ingeniería por XENOCRYPT para ZAARD INNOVATION</b></p>
+  <p>© 2026 - Todos los derechos reservados</p>
+
+</div>
 
 ---
 
