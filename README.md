@@ -1,26 +1,12 @@
 # ⚡ ESTRATEGIA MAESTRA DE ROTACIÓN, LIQUIDEZ Y RESPALDO: ZARD & PANGA
 
-![ZAARD INNOVATION Ecosystem](https://photos.pinksale.finance/file/pinksale-logo-upload/1793580450953-6f185aa92d9ef625377310eff59ba2ab.png)
+---
 
 ## 📌 Visión General y Filosofía del Protocolo
 
+![ZAARD INNOVATION Ecosystem](https://photos.pinksale.finance/file/pinksale-logo-upload/1793580450953-6f185aa92d9ef625377310eff59ba2ab.png)
+
 El ecosistema **ZAARD INNOVATION** representa una arquitectura financiera descentralizada de alta precisión. Los tokens **ZARD** y **PANGA** funcionan de manera completamente independiente bajo sus propios contratos inteligentes, pero trabajan al unísono para generar **ganancias reales**, blindar la liquidez del mercado y potenciar la utilidad en la BNB Smart Chain.
-
----
-
-## 🏛️ Galería Visual del Ecosistema
-
-| Asset 01 | Asset 02 |
-| :---: | :---: |
-| ![ZAARD Token Banner 1](https://photos.pinksale.finance/file/pinksale-logo-upload/1793403729787-08f2f9a1843dbe09507205aea1768c8a.png) | ![ZAARD Token Banner 2](https://photos.pinksale.finance/file/pinksale-logo-upload/1791940828941-906fd2a3d85625f79d066e5b033f6011.png) |
-
-| Asset 03 | Asset 04 |
-| :---: | :---: |
-| ![ZAARD Token Banner 3](https://photos.pinksale.finance/file/pinksale-logo-upload/1790285851823-4955b8f5511ea8235af22dfb82371c91.png) | ![ZAARD Token Banner 4](https://photos.pinksale.finance/file/pinksale-logo-upload/1790286307495-7850b9884619f2e0ccb7358994c11b42.png) |
-
----
-
-## ⚙️ ¿Cómo Trabajan Independientes pero al Unísono?
 
 * **Autonomía Contractual:** Cada token posee sus propias reglas de emisión, suministro y gestión de liquidez en la blockchain, garantizando total descentralización operativa.
 * **Sinergia Económica:** Cuando uno de los activos experimenta correcciones o puntos de acumulación óptimos, la liquidez del inversor inteligente puede rotar hacia el otro, manteniendo el volumen activo de todo el ecosistema.
@@ -30,13 +16,17 @@ El ecosistema **ZAARD INNOVATION** representa una arquitectura financiera descen
 
 ## 🔄 Guía Táctica de Rotación de Capital (Arbitraje Interno)
 
-La estructura permite a la comunidad maximizar el rendimiento mediante un ciclo continuo:
+![ZAARD Token Banner 1](https://photos.pinksale.finance/file/pinksale-logo-upload/1793403729787-08f2f9a1843dbe09507205aea1768c8a.png)
+
+La estructura permite a la comunidad maximizar el rendimiento mediante un ciclo continuo de rotación:
 1. **Fase de Entrada en PANGA:** Cuando **PANGA** presenta correcciones de precio atractivas, se retiran beneficios de **ZARD** para inyectar liquidez y acumular posiciones en PANGA.
 2. **Fase de Consolidación y Retorno:** Una vez que PANGA experimenta su impulso alcista, se toman ganancias y se reingresa el capital hacia **ZARD**, blindando el portafolio y manteniendo un flujo orgánico constante en ambas vías.
 
 ---
 
 ## 📜 Contratos Oficiales y Verificación en BscScan
+
+![ZAARD Token Banner 2](https://photos.pinksale.finance/file/pinksale-logo-upload/1791940828941-906fd2a3d85625f79d066e5b033f6011.png)
 
 Puedes auditar y verificar los contratos inteligentes, transacciones de propiedad y trazabilidad directamente en la red:
 
@@ -47,12 +37,16 @@ Puedes auditar y verificar los contratos inteligentes, transacciones de propieda
 
 ## 🔥 Registros de Quema (Token Burn) y Transparencia de Oferta
 
+![ZAARD Token Banner 3](https://photos.pinksale.finance/file/pinksale-logo-upload/1790285851823-4955b8f5511ea8235af22dfb82371c91.png)
+
 Para garantizar la deflación y el incremento orgánico del valor a largo plazo, el ecosistema ejecuta quemas programadas de tokens hacia direcciones nulas verificables:
 * **Quema Histórica del Ecosistema (10% Supply / 100,000 ZARD):** Enviado de forma permanente a la dirección de quema oficial [`0x9a9e55763920a9d007e71a5c85cbb9f4c5c23ade96f484d1e473eddd205bf272`](https://bscscan.com/tx/0x9a9e55763920a9d007e71a5c85cbb9f4c5c23ade96f484d1e473edld205bf272) (asegurando escasez permanente en la oferta circulante).
 
 ---
 
 ## 🖼️ Colección de NFTs y Respaldo Digital
+
+![ZAARD Token Banner 4](https://photos.pinksale.finance/file/pinksale-logo-upload/1790286307495-7850b9884619f2e0ccb7358994c11b42.png)
 
 El ecosistema expande su utilidad mediante coleccionables digitales únicos integrados en el mercado:
 * **ZAARD INNOVATION NFT Collection:** Desplegada y verificada en contratos de comercio digital bajo la dirección oficial [`0xb6a648842c13c1e3fc6c1c94f9f90ced2c5d19f0`](https://bscscan.com/address/0xb6a648842c13c1e3fc6c1c94f9f90ced2c5d19f0), otorgando derechos, identidad visual y estatus dentro de las aplicaciones descentralizadas (DApps) y juegos Web3 de la red.
