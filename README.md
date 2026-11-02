@@ -40,7 +40,7 @@ Puedes auditar y verificar los contratos inteligentes, transacciones de propieda
 ![ZAARD Token Banner 3](https://photos.pinksale.finance/file/pinksale-logo-upload/1790285851823-4955b8f5511ea8235af22dfb82371c91.png)
 
 Para garantizar la deflación y el incremento orgánico del valor a largo plazo, el ecosistema ejecuta quemas programadas de tokens hacia direcciones nulas verificables:
-* **Quema Histórica del Ecosistema (10% Supply / 100,000 ZARD):** Enviado de forma permanente a la dirección de quema oficial [`0x9a9e55763920a9d007e71a5c85cbb9f4c5c23ade96f484d1e473eddd205bf272`](https://bscscan.com/tx/0x9a9e55763920a9d007e71a5c85cbb9f4c5c23ade96f484d1e473edld205bf272) (asegurando escasez permanente en la oferta circulante).
+* **Quema Histórica del Ecosistema (10% Supply / 100,000 ZARD):** Enviado de forma permanente a la dirección de quema oficial (asegurando escasez permanente en la oferta circulante).
 
 ---
 
