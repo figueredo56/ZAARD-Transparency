@@ -1,23 +1,81 @@
-# ZAARD-Transparency
-# ZAARD Protocol Transparency Report
+# ⚡ ESTRATEGIA MAESTRA DE ROTACIÓN, LIQUIDEZ Y RESPALDO: ZARD & PANGA
 
-This repository provides full transparency regarding the tokenomics and reserve wallet distribution for the ZAARD ecosystem.
+![ZAARD INNOVATION Ecosystem](https://photos.pinksale.finance/file/pinksale-logo-upload/1793580450953-6f185aa92d9ef625377310eff59ba2ab.png)
 
-## Tokenomics Overview
-* **Total Supply:** 180
-* **Circulating Supply:** 116
-* **Reserve/Locked Assets:** 64
+## 📌 Visión General y Filosofía del Protocolo
 
-## Wallet Distribution (Annex A Data)
-Below is the classification of our reserve addresses:
+El ecosistema **ZAARD INNOVATION** representa una arquitectura financiera descentralizada de alta precisión. Los tokens **ZARD** y **PANGA** funcionan de manera completamente independiente bajo sus propios contratos inteligentes, pero trabajan al unísono para generar **ganancias reales**, blindar la liquidez del mercado y potenciar la utilidad en la BNB Smart Chain.
 
-| Wallet Category | Address | Purpose | Status |
-| :--- | :--- | :--- | :--- |
-| **Team/Developer** | `0x3468...4d65` | Main Deployment | Locked |
-| **Marketing/Bounty** | `0x0000...0000` | Future Distribution | Unlocked |
+---
 
-*Note: All reserve wallets are highlighted for community auditing.*
+## 🏛️ Galería Visual del Ecosistema
 
-## Verification
-This data matches our official submission to CoinMarketCap. 
-For live auditing, visit our [BscScan contract](https://bscscan.com/token/0x3468ea4e6ce13ec4c7f8651f7efc6aa6046f4d65).
+| Asset 01 | Asset 02 |
+| :---: | :---: |
+| ![ZAARD Token Banner 1](https://photos.pinksale.finance/file/pinksale-logo-upload/1793403729787-08f2f9a1843dbe09507205aea1768c8a.png) | ![ZAARD Token Banner 2](https://photos.pinksale.finance/file/pinksale-logo-upload/1791940828941-906fd2a3d85625f79d066e5b033f6011.png) |
+
+| Asset 03 | Asset 04 |
+| :---: | :---: |
+| ![ZAARD Token Banner 3](https://photos.pinksale.finance/file/pinksale-logo-upload/1790285851823-4955b8f5511ea8235af22dfb82371c91.png) | ![ZAARD Token Banner 4](https://photos.pinksale.finance/file/pinksale-logo-upload/1790286307495-7850b9884619f2e0ccb7358994c11b42.png) |
+
+---
+
+## ⚙️ ¿Cómo Trabajan Independientes pero al Unísono?
+
+* **Autonomía Contractual:** Cada token posee sus propias reglas de emisión, suministro y gestión de liquidez en la blockchain, garantizando total descentralización operativa.
+* **Sinergia Económica:** Cuando uno de los activos experimenta correcciones o puntos de acumulación óptimos, la liquidez del inversor inteligente puede rotar hacia el otro, manteniendo el volumen activo de todo el ecosistema.
+* **Generación de Valor Real:** El propósito del sistema no descansa en la especulación vacía, sino en la creación de utilidades Web3, juegos arcade, pasarelas y mecanismos de escasez programada.
+
+---
+
+## 🔄 Guía Táctica de Rotación de Capital (Arbitraje Interno)
+
+La estructura permite a la comunidad maximizar el rendimiento mediante un ciclo continuo:
+1. **Fase de Entrada en PANGA:** Cuando **PANGA** presenta correcciones de precio atractivas, se retiran beneficios de **ZARD** para inyectar liquidez y acumular posiciones en PANGA.
+2. **Fase de Consolidación y Retorno:** Una vez que PANGA experimenta su impulso alcista, se toman ganancias y se reingresa el capital hacia **ZARD**, blindando el portafolio y manteniendo un flujo orgánico constante en ambas vías.
+
+---
+
+## 📜 Contratos Oficiales y Verificación en BscScan
+
+Puedes auditar y verificar los contratos inteligentes, transacciones de propiedad y trazabilidad directamente en la red:
+
+* **ZARD Token Contract:** [`0x973ba2c1dccd0820f1e026d6b1f01c55c4085d38`](https://bscscan.com/address/0x973ba2c1dccd0820f1e026d6b1f01c55c4085d38)
+* **PANGA Token Contract:** [`0x4a6c3ea9e7132ad217c31f8252119f08c801366e`](https://bscscan.com/address/0x4a6c3ea9e7132ad217c31f8252119f08c801366e)
+
+---
+
+## 🔥 Registros de Quema (Token Burn) y Transparencia de Oferta
+
+Para garantizar la deflación y el incremento orgánico del valor a largo plazo, el ecosistema ejecuta quemas programadas de tokens hacia direcciones nulas verificables:
+* **Quema Histórica del Ecosistema (10% Supply / 100,000 ZARD):** Enviado de forma permanente a la dirección de quema oficial [`0x9a9e55763920a9d007e71a5c85cbb9f4c5c23ade96f484d1e473eddd205bf272`](https://bscscan.com/tx/0x9a9e55763920a9d007e71a5c85cbb9f4c5c23ade96f484d1e473edld205bf272) (asegurando escasez permanente en la oferta circulante).
+
+---
+
+## 🖼️ Colección de NFTs y Respaldo Digital
+
+El ecosistema expande su utilidad mediante coleccionables digitales únicos integrados en el mercado:
+* **ZAARD INNOVATION NFT Collection:** Desplegada y verificada en contratos de comercio digital bajo la dirección oficial [`0xb6a648842c13c1e3fc6c1c94f9f90ced2c5d19f0`](https://bscscan.com/address/0xb6a648842c13c1e3fc6c1c94f9f90ced2c5d19f0), otorgando derechos, identidad visual y estatus dentro de las aplicaciones descentralizadas (DApps) y juegos Web3 de la red.
+
+---
+
+## 🔀 Accesos Directos de Intercambio (PancakeSwap)
+
+Ejecuta tus operaciones de compra y rotación de manera inmediata en los pools oficiales de la BNB Smart Chain:
+
+### 🟡 1. Comprar ZARD con BNB
+[![Comprar ZARD](https://img.shields.io/badge/PancakeSwap-Comprar%20ZARD%20con%20BNB-F3BA2F?style=for-the-badge&logo=pancakeswap&logoColor=black)](https://pancakeswap.finance/swap?outputCurrency=0x973ba2c1dccd0820f1e026d6b1f01c55c4085d38)
+
+---
+
+### 🟢 2. Comprar PANGA con BNB
+[![Comprar PANGA](https://img.shields.io/badge/PancakeSwap-Comprar%20PANGA%20con%20BNB-10B981?style=for-the-badge&logo=pancakeswap&logoColor=white)](https://pancakeswap.finance/swap?outputCurrency=0x4a6c3ea9e7132ad217c31f8252119f08c801366e)
+
+---
+
+### 🟣 3. Rotación Directa (ZARD ↔ PANGA)
+[![Rotar ZARD a PANGA](https://img.shields.io/badge/PancakeSwap-Rotar%20ZARD%20a%20PANGA-6366F1?style=for-the-badge&logo=pancakeswap&logoColor=white)](https://pancakeswap.finance/swap?inputCurrency=0x973ba2c1dccd0820f1e026d6b1f01c55c4085d38&outputCurrency=0x4a6c3ea9e7132ad217c31f8252119f08c801366e)
+
+---
+
+> **ZAARD INNOVATION** — *Arquitectura descentralizada, contratos auditables, quemas deflacionarias y poder de mercado en manos de la comunidad.*
